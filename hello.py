@@ -1,2 +1,2 @@
-print("hello")
-a=20
+print("hell0")
+a=30
