@@ -1,2 +1,2 @@
 print("hello")
-a=15
+a=20
